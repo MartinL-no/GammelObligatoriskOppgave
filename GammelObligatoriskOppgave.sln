@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GammelObligatoriskOppgave", "GammelObligatoriskOppgave\GammelObligatoriskOppgave.csproj", "{EA798700-BA17-41C8-9477-20F64C4AC9BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GammelObligatoriskOppgave.Test", "GammelObligatoriskOppgave.Test\GammelObligatoriskOppgave.Test.csproj", "{4B88AC07-03FF-4BB2-8B1A-DC91824A162B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EA798700-BA17-41C8-9477-20F64C4AC9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA798700-BA17-41C8-9477-20F64C4AC9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA798700-BA17-41C8-9477-20F64C4AC9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B88AC07-03FF-4BB2-8B1A-DC91824A162B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B88AC07-03FF-4BB2-8B1A-DC91824A162B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B88AC07-03FF-4BB2-8B1A-DC91824A162B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B88AC07-03FF-4BB2-8B1A-DC91824A162B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
